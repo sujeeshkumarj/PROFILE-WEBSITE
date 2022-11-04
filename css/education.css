@@ -1,0 +1,27 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+table {
+  width: 75%;
+  height: 25em;
+  margin-left: 10%;
+  margin-top: 5%;
+  border-collapse: collapse;
+
+}
+
+td {
+  text-align: center;
+}
+
+.edu {
+  background-color: rgb(19, 141, 70);
+  color: black;
+  height: 1.6em;
+  margin-top: 170px;
+  text-align: center;
+}

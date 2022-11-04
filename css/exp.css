@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+img{
+    display: block;
+     margin-top:2% ;
+     margin-left: 30%;
+     width: 40%;
+     
+}
+.exp{
+    background-color: rgb(19, 141, 70);
+    color: black;
+    height: 1.6em;
+    margin-top: 2%;
+    text-align: center;
+
+}
